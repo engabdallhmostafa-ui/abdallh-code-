@@ -1,0 +1,7 @@
+{
+  "name": "TUV SUD AI Assistant",
+  "description": "Expert engineering assistant for inspection and design based on SBC (201, 301-306, 1101) and ACI 314-19 codes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
